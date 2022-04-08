@@ -1,6 +1,6 @@
 #! /bin/bash
 
-# Summary: copies a list of files to clipboard
+# Summary: copies a file to system clipboard
 # Dependencies: xclip
 
 # Copy file to clipboard
